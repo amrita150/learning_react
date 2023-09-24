@@ -1,0 +1,19 @@
+/* .heading{
+    text-align: center;
+    color: rgb(36, 6, 105);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 4rem;
+} */
+
+.img-div img{
+    width: 200px;
+    height: 200px;
+    margin: 1.5rem;
+}
+
+.img-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
