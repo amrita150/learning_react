@@ -1,12 +1,18 @@
-# React + Vite
+# what is jsx
+# rules for jsx
+## we use className in jsx instead of class
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## use {} to write js expression
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+# what we do 
+## Make a file called Welcome.jsx and write a JSX component that:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Shows a heading “Welcome to StudySync”
+
+Shows a subtext “Your verified college study space”
+
+Wraps both in a div
+
+Uses a variable appName and inserts it inside JSX using {}
