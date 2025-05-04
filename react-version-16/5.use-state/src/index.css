@@ -1,0 +1,9 @@
+button{
+    background-color: pink;
+    border: 3px solid magenta;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 12px;
+}
+
